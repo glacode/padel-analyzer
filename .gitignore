@@ -1,0 +1,44 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Video/image outputs
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+
+# Environment and dependency files
+*.env
+*.bak
+
+# Python dependency resolver files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Output folders
+dist/
+build/
+
+yolo*.pt
